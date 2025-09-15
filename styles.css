@@ -5,8 +5,6 @@ body, html {
 .hero-image {
   background-image: url("main/img/banner.png");
 
-  height: 50%;
-
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
