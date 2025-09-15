@@ -4,10 +4,9 @@ body, html {
 
 .hero-image {
     background-image: url("main/img/banner.png");
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    
     position: sticky;
     top: 0;
+    max-width:100%;
+    height: auto;
 }
