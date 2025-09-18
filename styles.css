@@ -11,4 +11,6 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    border: 10px;
+    border-color: #ff9501;
 }
